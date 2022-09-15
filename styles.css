@@ -257,9 +257,7 @@ button {
   #histories {
     grid-template-columns: repeat(1, 1fr);
   }
-  /* .card {
-    flex-direction: column;
-  } */
+  
 
   .question-answer-container{
     width: 85%;
