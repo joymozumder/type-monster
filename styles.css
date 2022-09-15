@@ -228,6 +228,12 @@ button {
   margin: 0 auto;
 }
 
+.container-title{
+  text-align: center;
+  color: #9dffad;
+  margin-top: 20px;
+}
+
 @media only screen and (max-width: 700px) {
   .box-container {
     padding: 0 20px;
